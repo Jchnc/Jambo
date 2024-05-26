@@ -1,0 +1,13 @@
+#root {
+  max-width: 580px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.tasksContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  width: 100%;
+}
